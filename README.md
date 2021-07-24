@@ -5,8 +5,8 @@ TLのツイートを拾って文章を自然にし、語尾に文をつけても
 
 cmdを開き、以下を実行
 
-##pip install tweepy
-##pip install mecab-python3
+## pip install tweepy
+## pip install mecab-python3
 
 ソースコード内のコンシューマーキーなどは自分の物に変更してください。
 
