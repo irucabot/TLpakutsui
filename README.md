@@ -12,6 +12,9 @@ cmdを開き、以下を実行
 ### pip install tweepy
 ### pip install mecab-python3 unidic-lite
 
+mecabのインストールも行ってください。
+インストール方法はググってください。
+
 ソースコード内のコンシューマーキーなどは自分の物に変更してください。
 
 ## 「1」フォルダについて
